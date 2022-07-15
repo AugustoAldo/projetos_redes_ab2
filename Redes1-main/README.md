@@ -19,7 +19,7 @@ INSTRUÇÕES PARA EXECUÇÃO O PROJETO
 
   No terminal, cmd ou similar e digitar:
   
-    git clone https://github.com/AugustoAldo/projeto_chat_rede.git
+    git clone https://github.com/AugustoAldo/projetos_redes_ab2.git
 
 -> Abrir o Visual Studio Code (VScode):
   
